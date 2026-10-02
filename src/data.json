@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "nomeAluno": "Lucas Bispo da Cruz",
+    "livro": "Melhor que nos filmes",
+    "devolvidoem": "2026-10-02T18:16:26.949Z"
+  },
+  {
+    "id": 2,
+    "nomeAluno": "Irineu",
+    "livro": "Fallen"
+  }
+]
