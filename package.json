@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ZePingusso/PROVA-PR-TICA#readme",
   "dependencies": {
+    "dotenv": "^18.0.5",
     "express": "^5.2.1"
   }
 }
